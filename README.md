@@ -10,7 +10,7 @@
 
 ## Download android app
 
-[Download Skull Movies](https://github.com/m4dd0c/skullMovies/releases/tag/v1.0.0)
+[Download Skull Movies](https://github.com/m4dd0c/skullMovies/releases)
 
 ## Get Started
 
