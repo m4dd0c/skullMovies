@@ -1,9 +1,10 @@
 # Skull Movies
 
-![Image](./images/home.jpg)
-![Image](./images/movie.jpg)
-![Image](./images/cast.jpg)
+<img src="./images/home.jpg" alt="Home Image" width="300" />
+<img src="./images/movie.jpg" alt="Movie Image" width="300" />
+<img src="./images/cast.jpg" alt="Cast Image" width="300" />
 
+<br/>
 ## Get Started
 
 install dev dependencies
