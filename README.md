@@ -1,8 +1,10 @@
 # Skull Movies
 
-<img src="./images/home.jpg" alt="Home Image" width="300" />
-<img src="./images/movie.jpg" alt="Movie Image" width="300" />
-<img src="./images/cast.jpg" alt="Cast Image" width="300" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./images/home.jpg" alt="Home Image" width="300" />
+  <img src="./images/movie.jpg" alt="Movie Image" width="300" />
+  <img src="./images/cast.jpg" alt="Cast Image" width="300" />
+</div>
 
 <br/>
 ## Get Started
