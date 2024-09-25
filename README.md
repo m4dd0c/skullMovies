@@ -1,8 +1,8 @@
 # Skull Movies
 
-![Image](.images/home.jpg)
-![Image](.images/movie.jpg)
-![Image](.images/cast.jpg)
+![Image](./images/home.jpg)
+![Image](./images/movie.jpg)
+![Image](./images/cast.jpg)
 
 ## Get Started
 
